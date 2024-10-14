@@ -63,3 +63,22 @@ Un régiment de fantassins est caractérisé par :
 - Un nombre de points de vie par fantassin
 - Un nombre de points d'attaque par fantassin
 - Un nombre de points de défense par fantassin
+
+## Install 
+
+### Spec
+
+- Open JDK 21
+- Spring boot 3.3.4
+
+Using SDK MAN (jdk manager)
+
+Install
+```shell
+sdk install java 21.0.2-open
+```
+
+Use
+```shell
+sdk use java 21.0.2-open
+```
